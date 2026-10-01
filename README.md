@@ -1,0 +1,2 @@
+# Design-Kinematics-and-Implementation-of-a-Wi-Fi-Controlled-4WD-Robotic-Vehicle
+Wi-Fi Controlled 4WD Robotic Vehicle a low-cost 4WD robotic vehicle powered by an ESP8266 and controlled wirelessly through a web browser. The ESP8266 creates its own Wi-Fi access point, allowing users to control the vehicle without internet, mobile apps. The system uses an L298N motor driver and four DC gear motors for movement
